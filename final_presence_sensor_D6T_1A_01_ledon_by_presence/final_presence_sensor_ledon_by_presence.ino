@@ -1,3 +1,6 @@
+//Switch on by means of presence sensor D6T-1A-01.  Application to turn on the light in a corridor or bathroom.
+//Sensor is connected via I2C with and arudino Wifi 1010 and switched with a standard relay 5vdc//
+
 /* includes */
 #include <Wire.h>
 
